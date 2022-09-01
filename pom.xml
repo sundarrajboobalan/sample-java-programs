@@ -23,7 +23,7 @@
     <version>0.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Java Samples</name>
+    <name>Java Samples programs</name>
     <description>Java Sample Code to be used in examples (in blog, etc)</description>
     <inceptionYear>2015</inceptionYear>
 
